@@ -1,2 +1,44 @@
+<!-- fallback_AnvilSteep_20261017120136_64750 -->
+
 # AnvilSteep
+
 AnvilSteep leverages high-performance computing and real-time processing to serve as a scalable data accelerator and optimizer.
+
+The key benefits of using AnvilSteep include:
+
+- AnvilSteep leverages high-performance computing and
+- real-time processing to serve as
+- a scalable data accelerator and
+
+## Key Features
+
+- AnvilSteep leverages high-performance computing and
+- real-time processing to serve as
+- a scalable data accelerator and
+
+## Technology Stack
+
+- javascript
+- Modular architecture
+- CI-ready (GitHub Actions)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/yhonaach/AnvilSteep.git`
+2. `cd AnvilSteep`
+3. Install in editable mode: `pip install -e .`
+
+## Configuration
+
+To configure AnvilSteep, modify the settings in the configuration file. Options include:
+- **DEBUG**: Enable or disable debug mode.
+- **ALLOWED_HOSTS**: Set allowed hostnames.
+- **DATABASES**: Configure database settings.
+
+## Contributing
+
+Contributions are welcome and appreciated. Please submit pull requests and issues through the GitHub interface.
+
+## License
+
+Released under the MIT License — see the [LICENSE](https://github.com/yhonaach/AnvilSteep/blob/main/LICENSE) file.
